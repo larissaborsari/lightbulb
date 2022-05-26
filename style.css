@@ -1,0 +1,56 @@
+h2 {
+    text-align: center;
+    color: grey;
+  }
+  
+  .bulb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  button {
+    background-color: navy;
+    color: white;
+    border-radius: 20px;
+    padding: 8px;
+  }
+  
+  .transform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  #change {
+    text-align: center;
+    color: grey;
+  }
+  
+  #changed {
+    text-align: center;
+    color: red;
+    background-color: aliceblue;
+  }
+  
+  .parag {
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  #paragraph {
+    color: blue;
+  }
+  
+  #new-pa {
+    color: black;
+    background-color: red;
+    font-weight: bold;
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+    padding: 5px;
+    margin-bottom: 5px;
+  }
